@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="left">## About Me<br>- 🏠 I'm from Patna, Bihar.<br>- 📚 Currently learning Full Stack Web Development.<br>- ⚡ In my free time, I love to listen to music.<br>- 🔭 I have a deep interest in Astronomy.<br><br>## Contact<br>- You can reach me at [nishantkr488@email.com](mailto:nishantkr488@email.com)<br>- Connect with me on [LinkedIn](https://www.linkedin.com/in/nishant-singh-9629ab270/)<br>- Follow me on [GitHub](https://github.com/maniRhombuz)<br>- You can visit my [Portfolio](https://manirhombuz.github.io/)<br><br>Feel free to get in touch if you share similar interests or want to collaborate on web development projects or discuss astronomy! 🌌</h6>
+<h6 align="left">## About Me<br>- 🏠 I'm from Patna, Bihar.<br>- 📚 Currently learning Full Stack Web Development.<br>- ⚡ In my free time, I love to listen to music.<br>- 🔭 I have a deep interest in Astronomy.<br><br>## Contact<br>- You can reach me at <a href="mailto:nishantkr488@email.com" >nishantkr488@email.com</a> [nishantkr488@email.com](mailto:nishantkr488@email.com)<br>- Connect with me on [LinkedIn](https://www.linkedin.com/in/nishant-singh-9629ab270/)<br>- Follow me on [GitHub](https://github.com/maniRhombuz)<br>- You can visit my [Portfolio](https://manirhombuz.github.io/)<br><br>Feel free to get in touch if you share similar interests or want to collaborate on web development projects or discuss astronomy! 🌌</h6>
 
 ###
 
