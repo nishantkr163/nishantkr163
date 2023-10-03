@@ -19,8 +19,8 @@
 ## Contact</h6>
 - You can reach me at [nishantkr488@email.com](mailto:nishantkr488@email.com)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/nishant-singh-9629ab270/)
-- Follow me on [GitHub](https://github.com/maniRhombuz)
-- You can visit my [Portfolio](https://manirhombuz.github.io/)
+- Follow me on [GitHub](https://github.com/nishantkr163)
+- You can visit my [Portfolio](https://nishantkr163.github.io/)
 - Feel free to get in touch if you share similar interests or want to collaborate on web development projects or discuss astronomy! 🌌
 ###
 
@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-  <img height="130" src="https://ghchart.rshah.org/maniRhombuz"  />
+  <img height="130" src="https://ghchart.rshah.org/nishantkr163"  />
 </div>
 
 <div align="center">
@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maniRhombuz.maniRhombuz&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nishantkr163.nishantkr163&"  />
 </div>
 
 ###
