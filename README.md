@@ -2,11 +2,11 @@
   <img height="300" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
 </div>
 
-<h2 align="center">Hey, my Name is Nishant Kumar Singh</h2>
+<h1 align="center">Hey, my name is Nishant Kumar Singh</h2>
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h2 align="center">👩‍💻  About Me</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="left">## About Me<br>- 🏠 I'm from Patna, Bihar.<br>- 📚 Currently learning Full Stack Web Development.<br>- ⚡ In my free time, I love to listen to music.<br>- 🔭 I have a deep interest in Astronomy.<br><br>
+<h6 align="left"><br>- 🏠 I'm from Patna, Bihar.<br>- 📚 Currently learning Full Stack Web Development.<br>- ⚡ In my free time, I love to listen to music.<br>- 🔭 I have a deep interest in Astronomy.<br><br>
   
 ## Contact</h6>
 - You can reach me at [nishantkr488@email.com](mailto:nishantkr488@email.com)
@@ -81,12 +81,5 @@
 
 ###
 
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-</div>
 
 ###
