@@ -6,8 +6,6 @@
 
 ###
 
-<h2 align="center">👩‍💻  About Me</h3>
-
 ###
 
 <img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif"  />
@@ -15,7 +13,7 @@
 ###
 
 
-## About</h6>
+## 👩‍💻 About Me</h6>
 <h6 align="left"><br>- 🏠 I'm from Patna, Bihar.<br>- 📚 Currently learning Full Stack Web Development.<br>- ⚡ In my free time, I love to listen to music.<br>- 🔭 I have a deep interest in Astronomy.<br><br>
   
 ## Contact</h6>
@@ -73,7 +71,7 @@
   <img src="https://streak-stats.demolab.com?user=nishantkr163&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<div>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nishantkr163&theme=onedark" alt="trophies" />
 </div>
 
