@@ -14,6 +14,8 @@
 
 ###
 
+
+## About</h6>
 <h6 align="left"><br>- 🏠 I'm from Patna, Bihar.<br>- 📚 Currently learning Full Stack Web Development.<br>- ⚡ In my free time, I love to listen to music.<br>- 🔭 I have a deep interest in Astronomy.<br><br>
   
 ## Contact</h6>
@@ -69,6 +71,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nishantkr163&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=nishantkr163&theme=onedark" alt="trophies" />
 </div>
 
 ###
