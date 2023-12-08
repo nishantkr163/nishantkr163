@@ -14,7 +14,7 @@
 
 
 ## 👩‍💻 About Me</h6>
-<h6 align="left"><br>- 🏠 I'm from Patna, Bihar.<br>- 📚 Currently learning Full Stack Web Development.<br>- ⚡ In my free time, I love to listen to music.<br>- 🔭 I have a deep interest in Astronomy.<br><br>
+<h6 align="left"><br>- 🏠 I'm from Patna, Bihar.<br>- 📚 Currently learning Firebase.<br>- ⚡ In my free time, I love to listen to music.<br>- 🔭 I have a deep interest in Astronomy.<br><br>
   
 ## Contact</h6>
 - You can reach me at [nishantkr488@email.com](mailto:nishantkr488@email.com)
